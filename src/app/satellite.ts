@@ -25,4 +25,4 @@ export class Satellite {
 
 }
 
-// TODO 3a: fix isSpaceDebris chec
+// TODO 3a: fix isSpaceDebris check
